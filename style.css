@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+    transition: 0.5s;
+}
+
+.light-mode{
+    background-color: white;
+    color: black;
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
